@@ -6,5 +6,6 @@ public class HelloWord {
 		System.out.println("测试二");
 		System.out.println();
 		System.out.println("updateGit");
+		System.err.println("QQQQQQQQQQQ");
 	}
 }
